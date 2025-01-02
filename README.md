@@ -49,7 +49,7 @@
 
 To download the APK file, click the link below:
 
-[**Download ONE PARA APK**](./apk/one_para.apk)
+[**Download ONE PARA APK**](https://github.com/TanotiCoder/ONE-PARA-APP/releases/download/V1.0/app-release.apk)
 
 ---
 
